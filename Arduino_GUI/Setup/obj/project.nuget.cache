@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IW//DwSio20=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bekom\\OneDrive\\Masaüstü\\Kodlar\\Arduino_GUI\\Setup\\Setup.wapproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.3233\\microsoft.windows.sdk.buildtools.10.0.22621.3233.nupkg.sha512"
+  ],
+  "logs": []
+}
